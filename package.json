@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/noryv4.lwc-l4t4hj41-fork-l4t4jegi",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve 9O9bh16oONGXKu2MXPH7 --open"
+  }
+}
